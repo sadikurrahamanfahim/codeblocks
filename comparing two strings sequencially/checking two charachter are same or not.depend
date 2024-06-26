@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609994454 source:d:\files\c files\checking two charachter are same or not\checking two charachter are same or not.c
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+

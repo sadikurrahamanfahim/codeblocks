@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596961548 source:f:\prblmfinding\prblmfinding.c
+	<stdio.h>
+	<math.h>
+

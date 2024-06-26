@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609997603 source:d:\files\c files\checking parenthesis valid or not\checking parenthesis valid or not.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

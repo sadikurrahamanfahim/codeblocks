@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596983294 source:f:\geomatricavg\geomatricavg.c
+	<stdio.h>
+	<math.h>
+

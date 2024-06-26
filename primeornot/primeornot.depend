@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596601369 source:f:\primeornot\primeornot.c
+	<stdio.h>
+
+1596716206 source:f:\c files\primeornot\primeornot.c
+	<stdio.h>
+

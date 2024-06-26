@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1598945183 source:f:\countstrings\countstrings.c
+	<stdio.h>
+

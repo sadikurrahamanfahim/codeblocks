@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608799819 source:d:\files\c files\file writing in one file showing it in two\file writing in one file showing it in two.c
+	<stdio.h>
+	<string.h>
+
